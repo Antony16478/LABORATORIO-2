@@ -1,4 +1,4 @@
-Laboratorio de Programación en c#
+##Laboratorio de Programación en c#
 1. Declaración y Uso de Variables
 En esta parte del programa, se declaran varias variables de diferentes tipos: un número entero, un número decimal, un texto y un valor booleano. Luego, se solicita al usuario que ingrese valores para cada una de estas variables. Después de recibir los valores, el programa los muestra en la consola.
 
