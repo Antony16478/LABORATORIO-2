@@ -40,21 +40,21 @@ de las operaciones y comparaciones realizadas con esos datos.
 
 ##PREGUNTAS 
    
-    #¿Para que crees que se usan los operadores logicos en programacion?
+    ¿Para que crees que se usan los operadores logicos en programacion?
     e utilizan para tomar decisiones basadas en múltiples condiciones.
     Por ejemplo, si quieres verificar si una persona es mayor de edad y 
     tiene una licencia de conducir válida, usarías un operador lógico para 
     combinar ambas condiciones. 
     
-    ##¿Porque es importante declarar  correctamente el tipo de dato de una variable?
+    ¿Porque es importante declarar  correctamente el tipo de dato de una variable?
 
      Asegura que los datos se manejen de manera adecuada. Por ejemplo, usar un tipo de
      dato int para números enteros y double para números decimales garantiza que las 
      operaciones matemáticas se realicen correctamente.
 
-     ## ENUNCIADO 1 
+      ENUNCIADO 1 
 
-     ##  ¿Que estructura usarias? ¿Porque? 
+      ¿Que estructura usarias? ¿Porque? 
 
      la estructura if-else es más adecuada que switch.
      La razón es que if-else permite evaluar rangos de 
@@ -62,9 +62,9 @@ de las operaciones y comparaciones realizadas con esos datos.
      casos específicos
 
      
-     ## ENUNCIADO 2
+      ENUNCIADO 2
 
-      ##  ¿Que estructura usarias? ¿Porque? 
+      ¿Que estructura usarias? ¿Porque? 
      la estructura switch es más adecuada que if-else. 
      La razón es que switch es ideal para evaluar un 
      conjunto de valores específicos y constantes, 
@@ -73,9 +73,9 @@ de las operaciones y comparaciones realizadas con esos datos.
 
      
      
-     ## ENUNCIADO 3
+      ENUNCIADO 3
 
-      ##  ¿Que estructura usarias? ¿Porque? 
+      ¿Que estructura usarias? ¿Porque? 
       Para este caso, la estructura if-else es
       más adecuada que switch. La razón es que 
       if-else permite evaluar múltiples condiciones 
